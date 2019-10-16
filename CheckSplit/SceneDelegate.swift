@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CheckSplit
 //
-//  Created by Eri^1 on 10/15/19.
+//  Created by lab on 10/15/19.
 //  Copyright © 2019 lab. All rights reserved.
 //
 
